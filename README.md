@@ -1055,9 +1055,6 @@ echo "Hello $name, welcome to my program. “
 $ chmod 755 exread1.sh 
 
 ## OUTPUT
-![315056545-12baf701-1c70-4fb0-a366-381d01418dce](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/6cc7a573-1656-4176-bc81-11da42c8d118)
-
-
 
 $ ./exread1.sh 
  
@@ -1077,6 +1074,8 @@ echo "Usage: badtest1 a b"
 fi
 ```
 ## OUTPUT
+![315055954-bc56e21d-c2ed-44c4-a627-a651370559fd](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/7ee0fda7-4aee-48b9-b66c-db62420186d5)
+
  ./funcex.sh 
 
  
@@ -1094,10 +1093,8 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
-![315056545-12baf701-1c70-4fb0-a366-381d01418dce](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/d764b44c-e55b-49e6-865d-97d47eff5509)
+[315056163-654bba20-181a-4810-8919-6f5d5e990f32](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/d0fd2ccc-8439-46b4-b072-8a78cd3503db)
 
-$ ./argshift.sh 1 2 3
- 
  cat argshift1.sh
 ```bash
  #/bin/bash 
