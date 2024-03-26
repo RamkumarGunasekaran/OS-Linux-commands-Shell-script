@@ -1,3 +1,5 @@
+NAME: RAMKUMAR G
+REG NO:212223220084
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
@@ -47,24 +49,25 @@ cat < file1
 
 cat < file2
 ## OUTPUT
-![1](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/90eb5c09-0d98-4fef-bd54-9aa817537b5a)
+![314976091-5efa87e6-0d63-4d21-9c17-8ea4c9f869ac](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/8444188a-6b95-4959-9b4b-3bd26434948f)
+
 
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
-![1](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/7b279b9f-5a4b-41ed-aa0e-ae865861cc5e)
+![314979500-2369bf72-0c7e-4a4a-8d9c-f2817448649e](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/0461b10e-d409-4182-8c50-35ce14860123)
 
  
 comm file1 file2
  ## OUTPUT
 
- ![314980658-34b7d485-8cd4-4686-ba34-2c670fcaafb5](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/074aeb83-a9c4-4aa6-914f-a9fc1247f7ab)
+ ![314980658-34b7d485-8cd4-4686-ba34-2c670fcaafb5](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/f898a817-39f3-4a70-a79a-0853b5e7478b)
 
 diff file1 file2
 ## OUTPUT
 
-![314981548-af7bc968-5664-4eea-aecb-510f6fd2806c](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/3485451c-b20b-4044-896b-60d6563ffb51)
+![314981548-af7bc968-5664-4eea-aecb-510f6fd2806c](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/9a640589-96e9-462d-be4f-35650b67847c)
 
 #Filters
 
