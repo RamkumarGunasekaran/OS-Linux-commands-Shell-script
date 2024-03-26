@@ -1,5 +1,6 @@
-NAME: RAMKUMAR G
-REG NO:212223220084
+## NAME: RAMKUMAR G
+## REG NO:212223220084
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
