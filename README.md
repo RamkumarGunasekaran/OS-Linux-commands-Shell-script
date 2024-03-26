@@ -1093,7 +1093,7 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
-[315056163-654bba20-181a-4810-8919-6f5d5e990f32](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/d0fd2ccc-8439-46b4-b072-8a78cd3503db)
+![315056545-12baf701-1c70-4fb0-a366-381d01418dce](https://github.com/RamkumarGunasekaran/OS-Linux-commands-Shell-script/assets/144870820/46fcb4e9-6469-41a5-bb11-cc06bae120ca)
 
  cat argshift1.sh
 ```bash
